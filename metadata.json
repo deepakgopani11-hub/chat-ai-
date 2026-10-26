@@ -1,0 +1,6 @@
+{
+  "name": "Arves - AI Studio: Video, Web & Automations",
+  "description": "Arves is a premier AI agency engineering cinematic AI video, modern intelligent websites, and autonomous workflow automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
